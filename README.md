@@ -34,13 +34,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+If one understands a heirarchy tree then it is very similar. Add labels (classes) for styling the page later in CSS. HTML is like a outline of the structure of the page instead of the outline of the content.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+with inline: Does not cause a line break. Doesn't take full width of the page only what is between opening and closing tags. Tags on same line as content.
+block: Starts a new line, takes up the page left to right. can be multiple lines and has a line break before and after element. Tags should be on line above and line below the content.
 
 3. What are the 4 areas of the box model?
 
+content, padding, border, margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+cross-axis
+
 5. Explain why git is valuable to a team of developers.
+
+Allows version control by letting devs work on their peice, provide reviews and testing before final merge.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
